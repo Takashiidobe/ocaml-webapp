@@ -1,4 +1,4 @@
-# ocaml-webapp
+# Ocaml Webapp template
 
 ## Setup
 
